@@ -1,0 +1,20 @@
+<svg width="29px" height="12px" viewBox="0 0 29 12" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="13" y="21" width="29" height="12" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1283.000000, -156.000000)">
+            <g id="Верх" transform="translate(372.000000, 135.000000)">
+                <g id="Версия-для-слабо-вид" transform="translate(898.000000, 0.000000)">
+                    <g id="99418">
+                        <image x="13" y="21" width="29" height="12"
+                               xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAMCAYAAACeGbYxAAAAAXNSR0IArs4c6QAAAhlJREFUOBF9lNFLFFEUxtcVTUET6603hRCNfPBBU2hhoQdRKDaiQCzoQddSQ1iof0FKilglUhDMtoKFWANRQYQiovaxFPRB6SXFh0KMXNPUft/snWFnmPXAb75zz7nf3Lk7d6cg4InGltYqSlfgLOzCV3ib/jT7Gz028FYw4Sqch1JYgXd411AnCuwMQzH5ENyFQrtudAvtxfzKU3eG+G8zeAJaODcOGMThPv59NYK6YNDiL6EfNow2ohdBD1ICCXNjUndQ76EyDifgEcgn/z3YhAGYNOsErJ0yuEYxCUsQ4ol+oU7Qv8BgwRSq0T9wBtahDFbhCMJ406gTeE8zeA/nIEI/Ze2UQTco7ngXVJHaZ+Qx6D3NwU9YNqqx6kPeBanJq7m9yomoLkGepBMNwzZ8hHwxbRr1qF7Ba6M6NIqZrPheP1DVQbzEere003++0/IXv9GqZQcdaB0s5p/q3wlifkNrHk5CyH+aVW03vUk8O8pRvdsJU28z6ie6bzks4Hlhv9PnZuYI2z/ldVHTQYpBBnTKcyPBQP/nGPOachvKqekgPTP1Mal9eqV6RzfgBwzCFyiBy9Bn8ihPOkruCm7cRUF1LT4MU/AXmuEB6KQn8V5Hs4sqwViEPIR+8Ps4DGCyf0qmuAP/TSpPodLdCRwyjoM+DnvqWTtVYgfmanLtrgYyYH8GdbqPDbw6FxFoAN37O6RYbA114j+H3qJ561lCCAAAAABJRU5ErkJggg=="></image>
+                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
